@@ -1,0 +1,18 @@
+{   "packages" :
+    [
+     {
+        "categories" :  [ 1 ],
+        "category" : "Veckopaket",
+        "cost" : 0,
+        "crosswords" : [ 111, 113, 114, 115, 116, 121, 118, 117, 119, 120 ],
+        "currency" : "sek",
+        "description" : "Ett paket med en hel veckas korsord",
+        "paId" : 125,
+        "packageInfo" : "v 17",
+        "published" : "1370834251000",
+        "updated" : "1370834376014",
+        "week" : 0,
+        "year" : 2013
+    }
+    ]
+}
