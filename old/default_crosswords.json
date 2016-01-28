@@ -1,0 +1,140 @@
+{
+    "crosswords" :
+                [
+                 {
+                 "year" : "2013",
+                 "week" : "5",
+                 "setter" : "Mattias Sigurdsson",
+                 "fullDescription" : "",
+                 "local-metadata" : "ms1",
+                 "type" : "bildkryss",
+                 "published" : "1330902000000",
+                 "updated" : "1362870000000",
+                 "local-picture" : "ms1.jpg",
+                 "name" : "Dagskryss fre",
+                 "cwId" : 3,
+                 "downloaded" : "true"
+                 
+                 },
+                    {
+                    "published" : "1361487600000",
+                    "week" : "5",
+                    "cwId" : 32,
+                    "name" : "Dagskryss ons",
+                    "year" : "2013",
+                    "type" : "bildkryss",
+                    "fullDescription" : "",
+                    "updated" : "1362870000000",
+                    "local-picture" : "dk0130.jpg",
+                    "local-metadata" : "dk0130",
+                    "downloaded" : "true"
+                    },
+                    {
+                    "published" : "1330902000000",
+                    "week" : "5",
+                    "cwId" : 33,
+                    "name" : "Dagskryss tors",
+                    "year" : "2013",
+                    "type" : "bildkryss",
+                    "fullDescription" : "",
+                    "setter" : "Mattias Sigurdsson",
+                    "updated" : "1362870000000",
+                    "local-picture" : "dk0131.jpg",
+                    "local-metadata" : "dk0131",
+                    "downloaded" : "true"
+                    },
+                 
+                 
+                 {
+                 "published" : "1369753620000",
+                 "week" : "13",
+                 "cwId" : 77,
+                 "name" : "Dagskryss mån",
+                 "year" : "2013",
+                 "type" : "Bildkryss",
+                 "subtype" : "Dagskryss",
+                 "fullDescription" : "",
+                 "setter" : "Mats Åberg",
+                 "updated" : "1369836925271",
+                 "local-picture" : "130325_MATABE_DAG.pdf",
+                 "local-metadata" : "130325_MATABE_DAG",
+                 "downloaded" : "true"
+                 },
+                 {
+                 "published" : "1369832554000",
+                 "week" : "13",
+                 "cwId" : 85,
+                 "name" : "Dagskryss tis",
+                 "year" : "2013",
+                 "type" : "Bildkryss",
+                 "subtype" : "Dagskryss",
+                 "fullDescription" : "",
+                 "setter" : "Kim Sinclair",
+                 "updated" : "1369832554760",
+                 "local-picture" : "130326_KIMSIN_DAG.pdf",
+                 "local-metadata" : "130326_KIMSIN_DAG",
+                 "downloaded" : "true"
+                 },
+                 {
+                 "published" : "1369818900000",
+                 "week" : "13",
+                 "cwId" : 79,
+                 "name" : "Dagskryss ons",
+                 "year" : "2013",
+                 "type" : "Bildkryss",
+                 "subtype" : "Dagskryss",
+                 "fullDescription" : "",
+                 "setter" : "Mattias Sigurdsson",
+                 "updated" : "1369818900335",
+                 "local-picture" : "130327_MATSIG_DAG.pdf",
+                 "local-metadata" : "130327_MATSIG_DAG",
+                 "downloaded" : "true"
+                 },
+                 {
+                 "published" : "1369813488000",
+                 "week" : "13",
+                 "cwId" : 78,
+                 "name" : "Dagskryss tor",
+                 "year" : "2013",
+                 "type" : "Bildkryss",
+                 "subtype" : "Dagskryss",
+                 "fullDescription" : "",
+                 "setter" : "Jerry Waldemarsson",
+                 "updated" : "1369813488835",
+                 "local-picture" : "130328_JERWAL_DAG.pdf",
+                 "local-metadata" : "130328_JERWAL_DAG",
+                 "downloaded" : "true"
+                 },
+                 {
+                 "published" : "1369821073000",
+                 "week" : "13",
+                 "cwId" : 82,
+                 "name" : "Kors och tvärs",
+                 "year" : "2013",
+                 "type" : "Bildkryss",
+                 "subtype" : "Kors och tvärs",
+                 "fullDescription" : "",
+                 "setter" : "Åsa Bodell",
+                 "updated" : "1369836958665",
+                 "local-picture" : "130328_ASABOD_KOT.pdf",
+                 "local-metadata" : "130328_ASABOD_KOT",
+                 "downloaded" : "true"
+                 },
+                 {
+                 "published" : "1369833075000",
+                 "week" : "13",
+                 "cwId" : 86,
+                 "name" : "Dagskryss lör",
+                 "year" : "2013",
+                 "type" : "Bildkryss",
+                 "subtype" : "Dagskryss",
+                 "fullDescription" : "",
+                 "setter" : "Kim Sinclair",
+                 "updated" : "1369833075271",
+                 "local-picture" : "130330_KIMSIN_DAG.pdf",
+                 "local-metadata" : "130330_KIMSIN_DAG",
+                 "downloaded" : "true"
+                 }
+                 
+                ]
+}

@@ -1,0 +1,25 @@
+{	"ids": [
+            116
+            ],
+	"packages": [
+                 {
+                 "paId": 116,
+                 "description": "Ett paket med korsord som ingår från början",
+                 "published": "1369985547000",
+                 "updated": "1369985547517",
+                 "cost": "0",
+                 "currency": "sek",
+                 "category": "Startpaket",
+                 "categories": [
+                                25
+                                ],
+                 "crosswords": [
+                                102,
+                                101
+                                ],
+                 "year": 0,
+                 "week": 0,
+                 "packageInfo": "1"
+                 }
+                 ]
+}

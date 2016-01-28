@@ -1,0 +1,40 @@
+{
+    "crosswords": [
+                   {
+                   "cwId": 101,
+                   "name": "Torsdagskrysset",
+                   "description": "Bildkryss",
+                   "fullDescription": "",
+                   "type": "Bildkryss",
+                   "subtype": "Dagskryss",
+                   "local-picture": "dk0131.pdf",
+                   "pdfUrl": "dk0131.pdf",
+                   "previewUrl": "dk0131small.jpg",
+                   "local-metadata": "dk0131",
+                   "setter": "Minerva McGonagall",
+                   "published": "1369985547000",
+                   "updated": "1369985547517",
+                   "downloaded" : "true",
+                   "year": 0,
+                   "week": 0
+                   },
+                   {
+                   "cwId": 102,
+                   "name": "Onsdagskrysset",
+                   "description": "Bildkryss",
+                   "fullDescription": "",
+                   "type": "Bildkryss",
+                   "subtype": "Dagskryss",
+                   "local-picture": "dk0130.pdf",
+                   "pdfUrl": "dk0130.pdf",
+                   "previewUrl": "hdk0130small.jpg",
+                   "local-metadata": "dk0130",
+                   "setter": "Hans Christian Nygårdh",
+                   "published": "1369985547000",
+                   "updated": "1369985547517",
+                   "downloaded" : "true",
+                   "year": 0,
+                   "week": 0
+                   }
+                   ]
+}

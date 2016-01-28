@@ -1,0 +1,37 @@
+{   "packages" :
+    [
+        {
+            "paId" : 1,
+            "name" : "1",
+            "category" : "Startpaket",
+            "description" : "Ett paket som kommer gratis med SvD Korsord",
+            "published" : "1362006000000",
+            "cost" : 0,
+            "crosswords" : [
+                                32,
+                                33,
+                                3
+                                  ],
+            "updated" : "1362870000000",
+            "currency" : "eur",
+            "categories" : [
+                                  1,
+                                  2
+                                  ]
+        },
+     {
+        "categories" :  [ 1 ],
+        "category" : "Veckopaket",
+        "cost" : 0,
+        "crosswords" : [ 77, 85, 79, 78, 82, 86 ],
+        "currency" : "sek",
+        "description" : "Ett paket med en hel veckas korsord",
+        "paId" : 112,
+        "packageInfo" : "v 13",
+        "published" : "1369834251000",
+        "updated" : "1369834376014",
+        "week" : 0,
+        "year" : 2013
+    }
+    ]
+}

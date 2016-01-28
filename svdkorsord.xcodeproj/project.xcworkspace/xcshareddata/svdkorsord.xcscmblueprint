@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89503603D0D5B00B73A1AAE0EC0596ACCB0F78CF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "89503603D0D5B00B73A1AAE0EC0596ACCB0F78CF" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89503603D0D5B00B73A1AAE0EC0596ACCB0F78CF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "05BBB484-675D-47FC-A100-344D6A89F682",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89503603D0D5B00B73A1AAE0EC0596ACCB0F78CF" : "SvD%20Kryss"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "svdkorsord",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "svdkorsord.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.dev.proactivegaming.com\/repos\/schibsted-client",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89503603D0D5B00B73A1AAE0EC0596ACCB0F78CF"
+    }
+  ]
+}
